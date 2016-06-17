@@ -29,6 +29,6 @@ public class MainActivity extends BaseAct {
 
     @Override
     protected void initEvent() {
-
+        //ad
     }
 }
