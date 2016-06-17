@@ -1,3 +1,46 @@
 <resources>
-    <string name="app_name">GanHuo</string>
+    <string name="app_name">干货营</string>
+    <string name="about">关于</string>
+    <string name="mm_no_net">请检查网络设置</string>
+
+    <string name="download_url">http://fir.im/gankmm</string>
+    <string name="github_my">http://www.github.com/maning0303</string>
+    <string name="gankio">http://www.gank.io</string>
+    <string name="github">github</string>
+    <string name="github_daimajia">https://github.com/daimajia</string>
+    <string name="github_other_app_01">https://github.com/drakeet/Meizhi</string>
+    <string name="github_other_app_02">https://github.com/xingrz/GankMeizhi</string>
+    <string name="github_other_app_03">https://github.com/xiongwei-git/GankApp</string>
+    <string name="github_other_app_04">https://github.com/dongjunkun/GanK</string>
+    <string name="github_other_app_05">https://github.com/zzhoujay/Gank4Android</string>
+
+
+    <!-- umeng反馈 -->
+    <string name="feedback">意见反馈</string>
+    <string name="reply_no_empty">反馈内容不能为空</string>
+    <string name="comment_count">评论(%d)</string>
+    <string name="hour_before">%d小时前</string>
+    <string name="minute_before">%d分钟前</string>
+    <string name="second_before">%d秒前</string>
+    <string name="fb_reply_content_default">我是 干货~营 的开发者，有任何问题及建议欢迎吐槽</string>
+    <string name="current">刚刚</string>
+
+    <!--网络相关-->
+    <string name="gank_net_fail">网络出问题啦</string>
+    <string name="gank_get_data_fail">获取数据失败</string>
+    <!--页面标题-->
+    <string name="gank_page_title_feedback">意见反馈</string>
+    <string name="gank_page_title_girls">美女~</string>
+
+    <!--Dialog-->
+    <string name="gank_dialog_title_tishi">提示</string>
+    <string name="gank_dialog_msg_savehint">长按图片即可保存，试试吧！</string>
+    <string name="gank_dialog_confirm">确定</string>
+    <string name="gank_dialog_msg_save_image">是否要将图片保存到手机？</string>
+    <string name="gank_hint_save_pic_fail">图片保存失败</string>
+    <string name="gank_dialog_cancle">取消</string>
+    <string name="gank_hint_exit_app">再按一次退出程序</string>
+    <string name="gank_dialog_title_notify">通知</string>
+    <string name="gank_dialog_msg_feedback">您的反馈有回复了，是否去查看？</string>
+    <string name="gank_hint_copy_success">复制成功</string>
 </resources>
