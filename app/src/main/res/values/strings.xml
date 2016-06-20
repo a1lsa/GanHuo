@@ -2,6 +2,9 @@
     <string name="app_name">干货营</string>
     <string name="about">关于</string>
     <string name="mm_no_net">请检查网络设置</string>
+    <string name="draw_open">打开</string>
+    <string name="draw_close">关闭</string>
+
 
     <string name="download_url">http://fir.im/gankmm</string>
     <string name="github_my">http://www.github.com/maning0303</string>
